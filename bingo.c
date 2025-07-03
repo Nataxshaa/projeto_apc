@@ -46,4 +46,4 @@ int main() {
                 break;
             }
     } while (opcao != 2);
-}
+} //continuar com a lógica de geração de cartelas e jogo e como sair do loop de jogadores cadastrados
